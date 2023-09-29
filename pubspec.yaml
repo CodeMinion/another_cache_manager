@@ -1,7 +1,7 @@
 name: another_cache_manager
 description: A Flutter package for caching files.
 version: 1.0.0
-homepage:
+homepage: https://github.com/CodeMinion/another_cache_manager
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
